@@ -4,14 +4,14 @@ import image_2 from "../src/img/photo_2.png";
 import category_photo_1 from "../src/img/category_photo_1.jpg";
 import category_photo_2 from "../src/img/category_photo_2.jpg";
 import category_photo_3 from "../src/img/category_photo_3.jpg";
-import product_photo_1 from "../src/img/productPhoto_1.jpg";
-import product_photo_2 from "../src/img/productPhoto_2.jpg";
-import product_photo_3 from "../src/img/productPhoto_3.jpg";
-import product_photo_4 from "../src/img/productPhoto_4.jpg";
-import product_photo_5 from "../src/img/productPhoto_5.jpg";
-import product_photo_6 from "../src/img/productPhoto_6.jpg";
-import product_photo_7 from "../src/img/productPhoto_7.jpg";
-import product_photo_8 from "../src/img/productPhoto_8.jpg";
+import product_photo_1 from "../src/img/productPhoto_1.png";
+import product_photo_2 from "../src/img/productPhoto_2.png";
+import product_photo_3 from "../src/img/productPhoto_3.png";
+import product_photo_4 from "../src/img/productPhoto_4.png";
+import product_photo_5 from "../src/img/productPhoto_5.png";
+import product_photo_6 from "../src/img/productPhoto_6.png";
+import product_photo_7 from "../src/img/productPhoto_7.png";
+import product_photo_8 from "../src/img/productPhoto_8.png";
 
 
 export const sliderItems = [

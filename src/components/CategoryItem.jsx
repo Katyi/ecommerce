@@ -9,8 +9,8 @@ const Container = styled.div`
 
 const Image = styled.img`
   width: 100%;
-  height: 110%;
-  object-fit: cover;
+  height: 100%;
+  object-fit: contain;
 `;
 
 const Info = styled.div`

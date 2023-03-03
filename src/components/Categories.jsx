@@ -7,6 +7,7 @@ const Container = styled.div`
   /* width: 30px; */
   padding: 20px;
   justify-content: space-between;
+  /* align-items: center; */
 `;
 
 const Categories = () => {
