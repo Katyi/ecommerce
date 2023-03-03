@@ -1,6 +1,18 @@
 import image_0 from "../src/img/photo_0.png";
 import image_1 from "../src/img/photo_1.png";
 import image_2 from "../src/img/photo_2.png";
+import category_photo_1 from "../src/img/category_photo_1.jpg";
+import category_photo_2 from "../src/img/category_photo_2.jpg";
+import category_photo_3 from "../src/img/category_photo_3.jpg";
+import product_photo_1 from "../src/img/productPhoto_1.jpg";
+import product_photo_2 from "../src/img/productPhoto_2.jpg";
+import product_photo_3 from "../src/img/productPhoto_3.jpg";
+import product_photo_4 from "../src/img/productPhoto_4.jpg";
+import product_photo_5 from "../src/img/productPhoto_5.jpg";
+import product_photo_6 from "../src/img/productPhoto_6.jpg";
+import product_photo_7 from "../src/img/productPhoto_7.jpg";
+import product_photo_8 from "../src/img/productPhoto_8.jpg";
+
 
 export const sliderItems = [
   {
@@ -29,17 +41,52 @@ export const sliderItems = [
 export const categories = [
   {
     id: 1,
-    img: {image_0},
+    img: category_photo_1,
     title: "SHIRT STYLE",
   },
   {
     id: 2,
-    img: {image_0},
+    img: category_photo_2,
     title: "LOUNGWEAR LOVE",
   },
   {
     id: 3,
-    img: {image_0},
+    img: category_photo_3,
     title: "LIGHT JACKETS",
+  },
+];
+
+export const popularProducts = [
+  {
+    id: 1,
+    img: product_photo_1,
+  },
+  {
+    id: 2,
+    img: product_photo_2,
+  },
+  {
+    id: 3,
+    img: product_photo_3,
+  },
+  {
+    id: 4,
+    img: product_photo_4,
+  },
+  {
+    id: 5,
+    img: product_photo_5,
+  },
+  {
+    id: 6,
+    img: product_photo_6,
+  },
+  {
+    id: 7,
+    img: product_photo_7,
+  },
+  {
+    id: 8,
+    img: product_photo_8,
   },
 ];
