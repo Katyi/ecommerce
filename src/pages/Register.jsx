@@ -1,5 +1,6 @@
 import styled from "styled-components";
 import backGroundphoto from "../img/backGroundphoto.png";
+import { mobile } from "../responsive";
 // import backGroundphoto from "../img/category_photo_1.jpg";
 
 const Container = styled.div`
@@ -15,12 +16,14 @@ const Container = styled.div`
     display: flex;
     align-items: center;
     justify-content: center;
+    ${mobile({background:"rgba(180,130,238,0.4)"})}
 `;
 
 const Wrapper = styled.div`
   width: 40%;
   padding: 20px;
   background-color: white;
+  ${mobile({width:"75%"})}
 `;
 
 const Title = styled.h1`
